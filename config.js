@@ -4,7 +4,7 @@
 
 
 let fs = require('fs')
-global.owner = ['6285822705721', '6285822705721','6285822705721', '6285822705721', '6285822705721'] // Letakan nomor kamu disini
+global.owner = ['6285713848184', '6285713848184','628513848184', '6285713848184', '6285713848184'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -47,7 +47,7 @@ global.author = '091102'
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© Alwan Karsa' //change the watermark 
+global.watermark = '© Vells Botz' //change the watermark 
 global.image = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBzu20tdAFqElapjLJvTTftQDyzDXNTfnJXQ&usqp=CAU' //change the image
 global.thumbfoto = 'https://w0.peakpx.com/wallpaper/181/22/HD-wallpaper-hxh-alluka-cat-girl.jpg'
 
